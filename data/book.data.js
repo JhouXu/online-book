@@ -1,7 +1,7 @@
 export const BookData = [
   {
-    name: "JavaScript 高级程序设计第四版",
-    url: "book/JavaScript 高级程序设计第四版.pdf",
+    name: "JavaScript高级程序设计第四版",
+    url: "book/JavaScript高级程序设计第四版.pdf",
     type: "javascript",
   },
   {
